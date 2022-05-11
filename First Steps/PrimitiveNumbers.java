@@ -1,4 +1,6 @@
-public class primitiveNumbers {
+package com.vytautas;
+
+public class Main{
     public static void main(String[] args) {
         int intMinValue = Integer.MIN_VALUE;
         int intMaxValue = Integer.MAX_VALUE;

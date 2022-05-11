@@ -1,4 +1,6 @@
-public class TernaryAssigntment{
+package com.vytautas;
+
+public class Main{
     public static void main(String[] args) {
         double newNumberOne = 20.00d;
         double newNumberTwo = 80.00d;
